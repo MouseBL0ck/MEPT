@@ -1,0 +1,10 @@
+example0@wordlist.file.com
+example1@wordlist.file.com
+example2@wordlist.file.com
+example3@wordlist.file.com
+example4@wordlist.file.com
+example5@wordlist.file.com
+example6@wordlist.file.com
+example7@wordlist.file.com
+example8@wordlist.file.com
+example9@wordlist.file.com
